@@ -1,0 +1,71 @@
+#Qr Code Component
+To do this challenge you need a basic understanding of HTML and CSS
+##The Challange
+You challenge is to build out this qr code component and get it looking as close to the design as possible.
+You can use any tools you like to help you complete the challenge. So if there is something you like to practice
+go ahead and use it.
+##where to find everything
+You task is to build out the project to the designs inside the design folder. You will find both a mobile and 
+desktop version of the design. The designs are in JPG static format. Using JPGs will mean that youll need to use  your best
+judgement for styles such as font size, padding and margin. You will find all the required assets in the images folder.
+The assets are already optimized
+There is also a style guide file containing the information you need. such as color pallete and fonts
+
+##Building your project
+Feel free to use any workflow that you feel comfortable with . Below is a suggested process:
+1. initialize your project as a public repo
+2. Configure yoru repo to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project
+with your repo URL. THere are a nubmer of ways to do this, and we will provide some recommendations below.
+3. Look through the designs to start planning out how youll tackle the project. This step is crucial to help you think ahead for CSS classes to creat reusable styles.
+4.Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well structured content. 
+5. Write out hte base ZStyles for your project, includeing general content styles, such as font family and font size.
+6. Start adding styles to the top fo the page and work down. Only move on to the next section once your happy youve compl;eted the area your working on. 
+
+## Deployiing your project
+As mentioned above, there are many ways to host your project for fee. our recommendations are github pages, vercel and netlify
+
+## Create  custom Readme.md
+overwrite the readme.md and the template with your own workd. 
+explain your project and reflect on what you learned. Once youve finished your readme rename it as readme.md and delete this one and the template
+
+## Submitting your Soultion
+Submit your solution on the platform for the rest of the community to see. follow the guide on the website. COmplete guide to submitting solutions. Remember if you are wanting feedback on the project to submit a question with the project. The more detailed you are the more responses you will recive
+
+## Sharing your solution
+There are multiple places to share your solution:
+1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
+2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
+3. Share your solution on other social channels like LinkedIn.
+4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+
+we provide templates to help y ou share your solution once youve submitted it on the platform. Please do eidt them and include specific question s when youre looking for feedback.
+
+#Front End style guide
+##Layout
+The designs were created to the following widths
+- mobile: 375px
+- Desktop: 1440px
+These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens
+
+## Colors
+ - White: hsl(0, 0%, 100%)
+ - Light gray: hsl(212, 45%, 89%)
+ -Grayish Blue: hsl(220, 15%, 55%)
+ -Dark Blue: hsl(218, 44%, 22%)
+
+ ## Typography
+
+ ###Body Copy
+ - Font Size (paragraph): 15px
+ ### Font
+ - Family : [outfit] (https://fonts.google.com/specimen/Outfit)
+ -Weights: 400, 700
+
+ Tomorrow: 
+ 1. make folders and repos
+ 3. make readme.md
+ 4 add to git
+ 5. continue to make coding notebook
+ 6. push and pull requests
+ 7. Commit everything to git
+ 
